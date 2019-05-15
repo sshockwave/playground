@@ -1,3 +1,12 @@
 # VIM
 
 [._]*.swp
+
+# CUDA
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
